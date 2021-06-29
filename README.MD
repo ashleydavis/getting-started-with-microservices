@@ -2,7 +2,9 @@
 
 Example code created during live coding at my talk "Getting Started with Microservices" at London Code Skill Buddy.
 
-Check back here later and I'll post a link to the talk and slides.
+[You can watch the video here](https://youtu.be/G2EfOAoNEfY)
+
+[Click here for the slides](https://www.slideshare.net/AshleyDavis33/getting-started-with-microservices-249514243)
 
 Please read the code, it is well commented! 
 
