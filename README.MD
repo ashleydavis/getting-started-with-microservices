@@ -10,7 +10,7 @@ Please read the code, it is well commented!
 
 Learn more about microservices with my book [Bootstrapping Microservices](http://bit.ly/2o0aDsP).
 
-[Catch up with me on Twitter](https://twitter.com/ashleydavis75).
+If you like this project, please star this repo and [support my work](https://www.codecapers.com.au/about#support-my-work)
 
 Follow the instructions below to get it running for yourself.
 
